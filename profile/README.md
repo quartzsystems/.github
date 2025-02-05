@@ -1,3 +1,3 @@
 ### Quartz Systems
 
-Hardware and Software Infrastructure
+Hardware/Software Infrastructure Maintenance & Development
